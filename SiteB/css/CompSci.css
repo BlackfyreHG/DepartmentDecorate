@@ -1,0 +1,14 @@
+body {
+        text-align: center;
+        border: 8px solid red;
+        background-color: antiquewhite;
+      }
+
+table {
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto; 
+}
+th {
+    text-align: center;
+}  
